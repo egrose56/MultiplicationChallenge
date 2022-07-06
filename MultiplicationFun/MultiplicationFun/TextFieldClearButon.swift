@@ -1,8 +1,8 @@
 //
 //  TextFieldClearButon.swift
 //  MultiplicationFun
-//
-//  Created by Elizabeth Rose on 7/4/22.
+//  Code created by Martin Albrecht
+//  File Created by Elizabeth Rose on 7/4/22.
 //
 
 import SwiftUI
